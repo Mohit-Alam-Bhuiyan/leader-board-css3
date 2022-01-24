@@ -24,16 +24,16 @@ header{
 }
 
 .logo{
-    margin-left: 480px;
+    margin-left: 290px;
 }
 .ida{
     color: white;
-    margin-right: 360px;
+    margin-right: 380px;
     font-family: 'Montserrat', sans-serif;
 }
 .nav_links{
     list-style: none;
-    /* margin-left: 900px; */
+    /* margin-left: 100px; */
 }
 
 .nav_links li{
@@ -45,7 +45,7 @@ header{
 }
 
 .cta{
-    margin-right: 480px;
+    margin-right: 290px;
 }
 
 /*------------------------
